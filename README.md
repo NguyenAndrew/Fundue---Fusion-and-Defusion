@@ -1,6 +1,10 @@
 # Fundue - Fusion and Defusion
-Description/Analysis of a new method of creating software, by combining and splitting apart different projects.
 
-Fundue (inspired by the words Fusion, Defusion, and Fondue) is a method of creating projects, where you either combinate two projects (whether completely related or not) or split apart existing project, to create something new that provides value.
+Fundue (inspired by the words Fusion, Defusion, and Fondue) is a method of creating projects where you combine two projects (whether completely related or not) or split apart an existing project into separate components, to create something new that provides value.
 
-The creation and documentation of this work was inspired by the recent videogame mods being created, where the functionality of one game is brought into another.
+Here are some examples:
+- [Soccer in Ocarina of Time](https://www.youtube.com/watch?v=9aURSh1BZbk)
+- [Minecraft in Elden Ring](https://www.youtube.com/watch?v=TmgAK5JjcDM)
+- [Minecraft in Skyrim](https://www.youtube.com/watch?v=3eQuBEA_Pjk)
+
+While the examples of the above are specific to video games, I can see the same methods apply to any project across domains (Like Fondue, the pieces can be very different, but can provide something worthwhile when put together)!
